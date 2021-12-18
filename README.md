@@ -4,7 +4,8 @@ Simple script to extract information from the Riot Games API
 # Getting Started
 
 #### Step 1: Create and activate Virtual Environment
-In the terminal ensure you are at the current working directory, or use CD <filepath-to-Connect_To_Riot_Games_API>
+Clone the repositary and ensure your terminal is pointing to this directory. (If not write CD <filepath-to-repo>)
+ 
 Run the commands in your terminal below to create the virtual environment, install requirements and activate the virtual environment.
 
 ```
