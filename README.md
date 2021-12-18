@@ -2,6 +2,7 @@
 Simple script to extract information from the Riot Games API
 
 # Getting Started
+![alt text](https://github.com/VirajVaitha123/Connect_to_Riot_Games_API/Images/main/riotlogo.png?raw=true)
 
 #### Step 1: Create and activate Virtual Environment
 In the terminal ensure you are at the current working directory, or use CD <filepath-to-Connect_To_Riot_Games_API>
